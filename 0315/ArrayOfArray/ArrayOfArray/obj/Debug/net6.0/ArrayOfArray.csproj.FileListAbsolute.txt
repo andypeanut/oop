@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\net6.0\ArrayOfArray.exe
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\net6.0\ArrayOfArray.deps.json
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\net6.0\ArrayOfArray.runtimeconfig.json
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\net6.0\ArrayOfArray.dll
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\bin\Debug\net6.0\ArrayOfArray.pdb
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.AssemblyInfo.cs
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.dll
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\refint\ArrayOfArray.dll
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.pdb
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ArrayOfArray.genruntimeconfig.cache
+C:\Users\user\source\repos\ArrayOfArray\ArrayOfArray\obj\Debug\net6.0\ref\ArrayOfArray.dll
