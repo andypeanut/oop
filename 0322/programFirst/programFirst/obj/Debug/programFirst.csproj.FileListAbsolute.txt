@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\programFirst\programFirst\bin\Debug\programFirst.exe.config
+C:\Users\user\source\repos\programFirst\programFirst\bin\Debug\programFirst.exe
+C:\Users\user\source\repos\programFirst\programFirst\bin\Debug\programFirst.pdb
+C:\Users\user\source\repos\programFirst\programFirst\obj\Debug\programFirst.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\programFirst\programFirst\obj\Debug\programFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\programFirst\programFirst\obj\Debug\programFirst.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\programFirst\programFirst\obj\Debug\programFirst.exe
+C:\Users\user\source\repos\programFirst\programFirst\obj\Debug\programFirst.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\bin\Debug\CurrencyFormat.exe.config
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\bin\Debug\CurrencyFormat.exe
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\bin\Debug\CurrencyFormat.pdb
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\obj\Debug\CurrencyFormat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\obj\Debug\CurrencyFormat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\obj\Debug\CurrencyFormat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\obj\Debug\CurrencyFormat.exe
+C:\Users\user\source\repos\CurrencyFormat\CurrencyFormat\obj\Debug\CurrencyFormat.pdb
