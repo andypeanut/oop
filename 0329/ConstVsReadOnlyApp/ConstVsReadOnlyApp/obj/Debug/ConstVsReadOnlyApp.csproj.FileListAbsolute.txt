@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.exe.config
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.exe
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\bin\Debug\ConstVsReadOnlyApp.pdb
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.exe
+C:\Users\user\source\repos\ConstVsReadOnlyApp\ConstVsReadOnlyApp\obj\Debug\ConstVsReadOnlyApp.pdb

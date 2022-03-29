@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\bin\Debug\ParameterArrayApp.exe.config
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\bin\Debug\ParameterArrayApp.exe
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\bin\Debug\ParameterArrayApp.pdb
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\obj\Debug\ParameterArrayApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\obj\Debug\ParameterArrayApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\obj\Debug\ParameterArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\obj\Debug\ParameterArrayApp.exe
+C:\Users\user\source\repos\ParameterArrayApp\ParameterArrayApp\obj\Debug\ParameterArrayApp.pdb

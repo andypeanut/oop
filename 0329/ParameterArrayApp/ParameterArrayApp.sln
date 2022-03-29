@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterArrayApp", "ParameterArrayApp\ParameterArrayApp.csproj", "{859AA28F-28AD-40F5-9327-6C54E52203DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859AA28F-28AD-40F5-9327-6C54E52203DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859AA28F-28AD-40F5-9327-6C54E52203DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859AA28F-28AD-40F5-9327-6C54E52203DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859AA28F-28AD-40F5-9327-6C54E52203DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A8C00B-224B-44DE-995B-8FF2956A0A4A}
+	EndGlobalSection
+EndGlobal

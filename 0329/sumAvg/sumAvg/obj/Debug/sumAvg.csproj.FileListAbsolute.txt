@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\sumAvg\sumAvg\bin\Debug\sumAvg.exe.config
+C:\Users\user\source\repos\sumAvg\sumAvg\bin\Debug\sumAvg.exe
+C:\Users\user\source\repos\sumAvg\sumAvg\bin\Debug\sumAvg.pdb
+C:\Users\user\source\repos\sumAvg\sumAvg\obj\Debug\sumAvg.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sumAvg\sumAvg\obj\Debug\sumAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\sumAvg\sumAvg\obj\Debug\sumAvg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sumAvg\sumAvg\obj\Debug\sumAvg.exe
+C:\Users\user\source\repos\sumAvg\sumAvg\obj\Debug\sumAvg.pdb

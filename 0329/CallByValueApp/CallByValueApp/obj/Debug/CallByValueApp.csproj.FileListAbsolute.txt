@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.exe.config
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.exe
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\bin\Debug\CallByValueApp.pdb
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.exe
+C:\Users\user\source\repos\CallByValueApp\CallByValueApp\obj\Debug\CallByValueApp.pdb

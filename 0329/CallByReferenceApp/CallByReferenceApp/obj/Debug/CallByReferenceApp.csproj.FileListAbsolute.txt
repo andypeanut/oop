@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.exe.config
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.exe
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\bin\Debug\CallByReferenceApp.pdb
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.exe
+C:\Users\user\source\repos\CallByReferenceApp\CallByReferenceApp\obj\Debug\CallByReferenceApp.pdb
