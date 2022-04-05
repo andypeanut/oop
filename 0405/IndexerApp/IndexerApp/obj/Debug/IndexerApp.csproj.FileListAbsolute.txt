@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\bin\Debug\IndexerApp.exe.config
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\bin\Debug\IndexerApp.exe
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\bin\Debug\IndexerApp.pdb
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\obj\Debug\IndexerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\obj\Debug\IndexerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\obj\Debug\IndexerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\obj\Debug\IndexerApp.exe
+C:\Users\user\source\repos\0405\IndexerApp\IndexerApp\obj\Debug\IndexerApp.pdb

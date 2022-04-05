@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\bin\Debug\StringIndexerApp.exe.config
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\bin\Debug\StringIndexerApp.exe
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\bin\Debug\StringIndexerApp.pdb
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\obj\Debug\StringIndexerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\obj\Debug\StringIndexerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\obj\Debug\StringIndexerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\obj\Debug\StringIndexerApp.exe
+C:\Users\user\source\repos\0405\StringIndexerApp\StringIndexerApp\obj\Debug\StringIndexerApp.pdb

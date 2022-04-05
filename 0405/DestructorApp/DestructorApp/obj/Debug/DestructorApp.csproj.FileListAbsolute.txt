@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\bin\Debug\DestructorApp.exe.config
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\bin\Debug\DestructorApp.exe
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\bin\Debug\DestructorApp.pdb
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\obj\Debug\DestructorApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\obj\Debug\DestructorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\obj\Debug\DestructorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\obj\Debug\DestructorApp.exe
+C:\Users\user\source\repos\0405\DestructorApp\DestructorApp\obj\Debug\DestructorApp.pdb

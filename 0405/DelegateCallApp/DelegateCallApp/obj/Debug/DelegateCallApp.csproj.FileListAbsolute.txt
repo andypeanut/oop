@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\bin\Debug\DelegateCallApp.exe.config
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\bin\Debug\DelegateCallApp.exe
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\bin\Debug\DelegateCallApp.pdb
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\obj\Debug\DelegateCallApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\obj\Debug\DelegateCallApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\obj\Debug\DelegateCallApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\obj\Debug\DelegateCallApp.exe
+C:\Users\user\source\repos\0405\DelegateCallApp\DelegateCallApp\obj\Debug\DelegateCallApp.pdb
