@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe.config
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.exe
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\bin\Debug\A114_AnonymousDelegate.pdb
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.exe
+C:\Users\user\source\repos\0412\A114_AnonymousDelegate\A114_AnonymousDelegate\obj\Debug\A114_AnonymousDelegate.pdb

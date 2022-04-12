@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\bin\Debug\JavaToCsharp_Mission.exe.config
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\bin\Debug\JavaToCsharp_Mission.exe
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\bin\Debug\JavaToCsharp_Mission.pdb
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\obj\Debug\JavaToCsharp_Mission.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\obj\Debug\JavaToCsharp_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\obj\Debug\JavaToCsharp_Mission.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\obj\Debug\JavaToCsharp_Mission.exe
+C:\Users\user\source\repos\0412\JavaToCsharp_Mission\JavaToCsharp_Mission\obj\Debug\JavaToCsharp_Mission.pdb
