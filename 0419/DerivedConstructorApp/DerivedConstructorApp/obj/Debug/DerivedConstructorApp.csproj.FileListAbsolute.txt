@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\bin\Debug\DerivedConstructorApp.exe.config
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\bin\Debug\DerivedConstructorApp.exe
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\bin\Debug\DerivedConstructorApp.pdb
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\obj\Debug\DerivedConstructorApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\obj\Debug\DerivedConstructorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\obj\Debug\DerivedConstructorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\obj\Debug\DerivedConstructorApp.exe
+C:\Users\user\source\repos\0419\DerivedConstructorApp\DerivedConstructorApp\obj\Debug\DerivedConstructorApp.pdb

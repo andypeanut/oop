@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\bin\Debug\DivByZeroExceptionApp.exe.config
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\bin\Debug\DivByZeroExceptionApp.exe
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\bin\Debug\DivByZeroExceptionApp.pdb
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\obj\Debug\DivByZeroExceptionApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\obj\Debug\DivByZeroExceptionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\obj\Debug\DivByZeroExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\obj\Debug\DivByZeroExceptionApp.exe
+C:\Users\user\source\repos\0419\DivByZeroExceptionApp\DivByZeroExceptionApp\obj\Debug\DivByZeroExceptionApp.pdb

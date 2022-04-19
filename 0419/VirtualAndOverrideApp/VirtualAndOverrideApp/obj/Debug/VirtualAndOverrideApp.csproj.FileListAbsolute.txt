@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\bin\Debug\VirtualAndOverrideApp.exe.config
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\bin\Debug\VirtualAndOverrideApp.exe
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\bin\Debug\VirtualAndOverrideApp.pdb
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\obj\Debug\VirtualAndOverrideApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\obj\Debug\VirtualAndOverrideApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\obj\Debug\VirtualAndOverrideApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\obj\Debug\VirtualAndOverrideApp.exe
+C:\Users\user\source\repos\0419\VirtualAndOverrideApp\VirtualAndOverrideApp\obj\Debug\VirtualAndOverrideApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\bin\Debug\ImplementingInterfaceApp.exe.config
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\bin\Debug\ImplementingInterfaceApp.exe
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\bin\Debug\ImplementingInterfaceApp.pdb
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\obj\Debug\ImplementingInterfaceApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\obj\Debug\ImplementingInterfaceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\obj\Debug\ImplementingInterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\obj\Debug\ImplementingInterfaceApp.exe
+C:\Users\user\source\repos\0419\ImplementingInterfaceApp\ImplementingInterfaceApp\obj\Debug\ImplementingInterfaceApp.pdb

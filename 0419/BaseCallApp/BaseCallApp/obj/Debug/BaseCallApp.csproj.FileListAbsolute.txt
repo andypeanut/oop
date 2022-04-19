@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\bin\Debug\BaseCallApp.exe.config
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\bin\Debug\BaseCallApp.exe
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\bin\Debug\BaseCallApp.pdb
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\obj\Debug\BaseCallApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\obj\Debug\BaseCallApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\obj\Debug\BaseCallApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\obj\Debug\BaseCallApp.exe
+C:\Users\user\source\repos\0419\BaseCallApp\BaseCallApp\obj\Debug\BaseCallApp.pdb

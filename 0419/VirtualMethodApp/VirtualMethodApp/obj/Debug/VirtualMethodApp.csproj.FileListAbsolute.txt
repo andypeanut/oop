@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\bin\Debug\VirtualMethodApp.exe.config
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\bin\Debug\VirtualMethodApp.exe
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\bin\Debug\VirtualMethodApp.pdb
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\obj\Debug\VirtualMethodApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\obj\Debug\VirtualMethodApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\obj\Debug\VirtualMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\obj\Debug\VirtualMethodApp.exe
+C:\Users\user\source\repos\0419\VirtualMethodApp\VirtualMethodApp\obj\Debug\VirtualMethodApp.pdb

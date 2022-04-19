@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe.config
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.pdb
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.exe
+C:\Users\user\source\repos\0419\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.pdb

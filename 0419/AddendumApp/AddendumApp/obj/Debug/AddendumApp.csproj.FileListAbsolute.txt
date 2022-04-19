@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\bin\Debug\AddendumApp.exe.config
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\bin\Debug\AddendumApp.exe
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\bin\Debug\AddendumApp.pdb
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\obj\Debug\AddendumApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\obj\Debug\AddendumApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\obj\Debug\AddendumApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\obj\Debug\AddendumApp.exe
+C:\Users\user\source\repos\0419\AddendumApp\AddendumApp\obj\Debug\AddendumApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\bin\Debug\ClassTypeConversionApp.exe.config
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\bin\Debug\ClassTypeConversionApp.exe
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\bin\Debug\ClassTypeConversionApp.pdb
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\obj\Debug\ClassTypeConversionApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\obj\Debug\ClassTypeConversionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\obj\Debug\ClassTypeConversionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\obj\Debug\ClassTypeConversionApp.exe
+C:\Users\user\source\repos\0419\ClassTypeConversionApp\ClassTypeConversionApp\obj\Debug\ClassTypeConversionApp.pdb

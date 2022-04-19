@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\bin\Debug\HiddenNameApp.exe.config
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\bin\Debug\HiddenNameApp.exe
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\bin\Debug\HiddenNameApp.pdb
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\obj\Debug\HiddenNameApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\obj\Debug\HiddenNameApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\obj\Debug\HiddenNameApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\obj\Debug\HiddenNameApp.exe
+C:\Users\user\source\repos\0419\HiddenNameApp\HiddenNameApp\obj\Debug\HiddenNameApp.pdb
