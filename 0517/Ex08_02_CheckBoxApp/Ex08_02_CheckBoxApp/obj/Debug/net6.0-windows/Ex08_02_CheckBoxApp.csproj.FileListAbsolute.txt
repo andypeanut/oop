@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\bin\Debug\net6.0-windows\Ex08_02_CheckBoxApp.exe
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\bin\Debug\net6.0-windows\Ex08_02_CheckBoxApp.deps.json
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\bin\Debug\net6.0-windows\Ex08_02_CheckBoxApp.runtimeconfig.json
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\bin\Debug\net6.0-windows\Ex08_02_CheckBoxApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\bin\Debug\net6.0-windows\Ex08_02_CheckBoxApp.pdb
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.Form1.resources
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.AssemblyInfo.cs
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\refint\Ex08_02_CheckBoxApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.pdb
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\Ex08_02_CheckBoxApp.genruntimeconfig.cache
+C:\Users\user\source\repos\0419\0517\Ex08_02_CheckBoxApp\Ex08_02_CheckBoxApp\obj\Debug\net6.0-windows\ref\Ex08_02_CheckBoxApp.dll

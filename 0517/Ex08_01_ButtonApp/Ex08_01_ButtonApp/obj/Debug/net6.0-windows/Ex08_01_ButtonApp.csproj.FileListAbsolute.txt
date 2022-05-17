@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\bin\Debug\net6.0-windows\Ex08_01_ButtonApp.exe
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\bin\Debug\net6.0-windows\Ex08_01_ButtonApp.deps.json
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\bin\Debug\net6.0-windows\Ex08_01_ButtonApp.runtimeconfig.json
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\bin\Debug\net6.0-windows\Ex08_01_ButtonApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\bin\Debug\net6.0-windows\Ex08_01_ButtonApp.pdb
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.Form1.resources
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.AssemblyInfo.cs
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\refint\Ex08_01_ButtonApp.dll
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.pdb
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\Ex08_01_ButtonApp.genruntimeconfig.cache
+C:\Users\user\source\repos\0419\0517\Ex08_01_ButtonApp\Ex08_01_ButtonApp\obj\Debug\net6.0-windows\ref\Ex08_01_ButtonApp.dll
